@@ -11,12 +11,13 @@
   <li>All the data will be persistent and is stored in the Amazon cloud.</li>
 </ul>
 
+<p> Excited to view the demo of the app!! <a href="https://travellogram.onrender.com">Click here</a> and register and add your campgrounds and reviews 🤩 </p>
+
 <h1>Technologies Used:</h1>
 <ul>
   <li><h6>HTML5</h6> - markup language for creating web pages and web applications</li>
   <li><h6>CSS3</h6> - used for describing the presentation of a document written in a markup language</li>
   <li><h6>Bootstrap</h6> - free and open-source front-end web framework for designing websites and web applications quickly</li>
-  <li><h6>jQuery</h6> - cross-platform JavaScript library designed to simplify the client-side scripting of HTML</li>
   <li><h6>DOM Manipulation</h6> - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document</li>
   <li><h6>Node.js</h6> - open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side</li>
   <li><h6>Express.js</h6> - for building web applications and APIs and connecting middleware</li>
@@ -28,4 +29,4 @@
   <li><h6>AWS</h6> - mongodb is hosted on amazon ec2 instance</li>
 </ul>
 
-<p> Excited to view the demo of the app!! <a href="https://travellogram.onrender.com">Click here</a> and register and add your campgrounds and reviews 🤩 </p>
+
