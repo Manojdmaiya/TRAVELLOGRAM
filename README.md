@@ -28,4 +28,4 @@
   <li><h6>AWS</h6> - mongodb is hosted on amazon ec2 instance</li>
 </ul>
 
-<h6> Excited to view the demo of the app!! <a href="https://travellogram.onrender.com">Click here</a> and register and add your campgrounds and reviews 🤩 </h6>
+<p> Excited to view the demo of the app!! <a href="https://travellogram.onrender.com">Click here</a> and register and add your campgrounds and reviews 🤩 </p>
