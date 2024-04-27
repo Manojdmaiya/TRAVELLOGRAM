@@ -20,7 +20,7 @@ const userRoutes = require('./routes/users')
 const campgroundRoutes = require('./routes/campgrounds')
 const reviewRoutes = require('./routes/reviews')
 const db_url = process.env.DB_URL
-
+const port = process.env.PORT || 4000;
 const MongoStore = require('connect-mongo')
 
 mongoose
@@ -142,6 +142,6 @@ app.use((err, req, res, next) => {
   res.status(statusCode).render('error', { err })
 })
 
-app.listen(8050, () => {
-  console.log('Serving on port 8050')
+app.listen(port, () => {
+  console.log(`Serving on port ${port}`)
 })
