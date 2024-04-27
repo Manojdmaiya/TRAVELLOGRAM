@@ -27,3 +27,5 @@
   <li><h6>Render Platform</h6> - cloud platform as a service used as a web application deployment model</li>
   <li><h6>AWS</h6> - mongodb is hosted on amazon ec2 instance</li>
 </ul>
+
+<h6> Excited to view the demo of the app!! <a href="https://travellogram.onrender.com">Click here</a> and register and add your campgrounds and reviews 🤩 </h6>
