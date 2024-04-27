@@ -11,7 +11,7 @@
   <li>All the data will be persistent and is stored in the Amazon cloud.</li>
 </ul>
 
-<p> Excited to view the demo of the app!! <a href="https://travellogram.onrender.com">Click here</a> and register and add your campgrounds and reviews 🤩 </p>
+<p> <b> Excited to view the demo of the app!! <a href="https://travellogram.onrender.com">Click here</a> and register and add your campgrounds and reviews 🤩 </b> </p>
 
 <h1>Technologies Used:</h1>
 <ul>
